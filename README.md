@@ -4,7 +4,7 @@
 ## Instrucciones para correr
 Descargar los archivos MLP_Keras.ipynb y MLP_Matrices.ipynb. Se sugiere subirlos a Google Collaborative para una mejor visualización.
 ## Link al video
-aca va el link al video
+https://drive.google.com/file/d/17urDmW4MvUkNk63E44r_hbgD3T6twmsK/view?usp=sharing
 ## Descripción del problema
 Para este desafío, se decidió abordar el problema de reconocer carácteres (letras) de una imagen con el propósito de digitalizar documentos escaneados. Un ejemplo de aplicación de este problema puede ser la digitalización de antiguas recetas médicas escritas a mano y asociarlas al perfil virtual del paciente, así evitar problemas al extraviar el documento físico.
 
